@@ -1,3 +1,3 @@
 # git-ovning
 
-Det här är inte ett övningsrepo.
+Hej jag heter mette
