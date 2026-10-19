@@ -1,3 +1,3 @@
 # git-ovning
 
-Det här är ett övningsrepo.
+Det här är inte ett övningsrepo.
